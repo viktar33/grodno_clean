@@ -1,10 +1,6 @@
 import React from 'react';
 import './CatalogList.css'
 import Zoom from 'react-reveal/Zoom';
-import phone from './1.png';
-import car from './2.png';
-import clean from './3.png';
-import photo from './4.png';
 
 
 const CatalogList = () => {
