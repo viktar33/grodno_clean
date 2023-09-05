@@ -28,7 +28,8 @@ const LeftParagraph = () => {
             </div>
             <div className='image'>
                 <img
-                    src='https://lh3.googleusercontent.com/pw/AIL4fc8vpEwNpd3qT-kFYZvmpy1H5B1m59aTt69hB4Xk7SsJY1ChqWuNAF-efUooqgzjjmXzAT8jw8T5GL2YFKjKrTGooplh3A068YU64t1nbi_ksnkDQk95SIlffKAESRnFk4Lb7jXI0rmFmyFDOfygfY1uSUuI8sBKzizVlP0YAj8Iv2zJdf890uVaJPVpZuvC1YRPWZQPBIp-pmRp2DaL0SPp_PGJRh1LkADJSFC1MSqQS0hjP4HNDIEP-_c3VqY3dhEHS7bKgEZTwBZyruiRtqeVd1DNPzk0Fj7eg0oCm_l_K9MYaKV0KBJinbV99K6pKNIvmBxlVR1Jtw7lYtvU5jUoARHTWg9cL3KnOnJ5gOjF-_GA3CqVvxslEV26pWZb1HoERJK8NxlYZM6UUPbxBR6iBxbhv1CL8aiB3CLSn5zv2TA3j9LKDzcfz6KInR2cuLhnb7wpdd9md8IG5ycJw7FcaPq_MxO-P5xoBBEeqa-mvu_0vCCohesvJo0WBujL3HjrKxwP7055LzXXFNLvJYtkXH6XUh37zGuK8TSSdRkwpkEaKlHlrA6O1qodozjLqprjicjUsFa_75kG-YHYM0wmlGgSVKFoqi6Tb0fDP6m9hEP6onh5TMMIAhfTJgbAYVqM0faMlgAnlm7LRmb1DU0sJO-YxJ6vSycKh0ctcBfx-7sEQl-OqMVSsPrJV2phB-3LOpsDNPMQqhjxCV3n6JhrYSgdsmdrXnOA5aSrgCjxKiwPtLnacl3UiMaqSn4chHCykXlRNOO_HFFQn1UphUDBXB4zcOg7N-A2R40HDxueQhxfinO1_cHszDaDB81rQ1n4RNmqzf8cAIfuxPhqf3yyA3XyE6osACC0qGJFJ9xegL10vs5XJVikbqgk2ZW2J8ZtolE8uGbyvXFZ0PNBDNFH=w1809-h905-s-no?authuser=0'/>
+                src='https://i.ibb.co/C95p9Ts/1662421797-2-kartinkof-club-p-novie-i-krasivie-kartinki-kladbishche-2.jpg'
+                />
             </div>
         </div>
     );
