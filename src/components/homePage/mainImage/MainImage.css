@@ -1,0 +1,54 @@
+.mainImage{
+    justify-content: center;
+    align-items: center;
+    word-wrap: break-word;
+}
+
+.mainImage .text {
+    width: 45%;
+    padding: 1%;
+    display: inline-block;
+    margin-top: 1%;
+    max-width: 550px;
+    position: absolute;
+}
+
+.mainImage .image {
+    width: 50%;
+    display: inline-block;
+}
+
+.mainImage .image img {
+    width: 100%;
+    max-height: 450px;
+    border-radius: 0 35% 0 35%;
+}
+
+.mainImage .greet-buttons {
+    display: inline;
+}
+
+.mainImage .greet-buttons Button {
+    margin: 1%;
+}
+
+@media (max-width: 768px) {
+
+    .mainImage .text {
+        width: 100%;
+        margin-bottom: 5px;
+        padding: 1%;
+        display: block;
+        max-width: 450px;
+        position: absolute;
+    }
+
+    .mainImage .text h2 {
+        text-transform: uppercase;
+    }
+
+    .mainImage .image {
+        width: 100%;
+        margin-bottom: 1px;
+    }
+}

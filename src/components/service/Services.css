@@ -1,0 +1,19 @@
+table {
+    width: 70%;
+    border: 1px solid #282c34;
+    margin: 5% auto;
+    border-radius: 15px;
+}
+
+th, td {
+    text-align: left;
+    padding: 16px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+    background-color: #92999f;
+}

@@ -1,0 +1,14 @@
+.greet {
+    text-align: center;
+    margin: 3%;
+}
+
+.greet h1 {
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .greet {
+        margin-top: 85%;
+    }
+}
